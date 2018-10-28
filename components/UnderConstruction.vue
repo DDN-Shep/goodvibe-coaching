@@ -63,18 +63,20 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 
 body {
-  background: #eeeef4;
+  background: #f8f9fa;
   color: #999;
   font-family: Roboto;
 }
 
 h1 {
+  padding-bottom: .5em;
   font-weight: 100;
   font-size: 27pt;
   color: #e43;
 }
 
 p {
+  padding-top: 1em;
   font-weight: 300;
 }
 
