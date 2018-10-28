@@ -22,7 +22,7 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'vue/max-attributes-per-line': ['error',
       {
-          'singleline': 4,
+          'singleline': 6,
           'multiline': {
             'max': 1,
             'allowFirstLine': true
