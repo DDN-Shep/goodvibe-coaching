@@ -56,7 +56,7 @@ export default {
   },
   data() {
     return {
-      isUnderConstruction: true
+      isUnderConstruction: false
     };
   }
 }
